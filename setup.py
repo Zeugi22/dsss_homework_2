@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name='dsss_homework_2',
-    version='1.0',
-    py_modules=['math_quiz', 'tests_math_quiz']
+    name='math_quiz',
+    version='0.1',
+    packages=['math_quiz']
 )
